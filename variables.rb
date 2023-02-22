@@ -1,3 +1,9 @@
+// Strings
 name = "Michael"
 city = "Boulder"
 bike_brand = "Canyon"
+
+// Integers
+age = 27
+zip_code = 80304
+bike_count = 2
