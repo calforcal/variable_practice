@@ -16,3 +16,12 @@ account_balance = 1054.86
 likes_bikes = true
 enrolled = false
 currently_baking = false
+
+//Reassigning Strings
+name = "Carolyn"
+city = "Lansdale"
+bike_brand = "Specialized"
+
+puts "My name is #{name}."
+puts "I live in the city of #{city}."
+puts "I ride a #{bike_brand} bicycle."
